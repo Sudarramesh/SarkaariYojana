@@ -1,0 +1,6 @@
+{
+  "name": "SarkariYojana Portal",
+  "description": "Discover government schemes, verify eligibility, apply online, and track your application status in real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
